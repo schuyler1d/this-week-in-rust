@@ -227,8 +227,8 @@ What's [Built with Rust]?
 
 ## Upcoming Events
 
-* [January 27 - Rust NY][ny].
 * [January 28 - Amsterdam][amst].
+* [January 29 - Rust NY][ny].
 * [February 1 - The Story of Rust][steve]. Steve Klabnik at FOSDEM.
 * [February 1 - Servo and You][jdm]. Josh Matthews at FOSDEM.
 
